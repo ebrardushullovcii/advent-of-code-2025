@@ -68,7 +68,3 @@ Following these rotations would cause the dial to move as follows:
 Because the dial points at 0 a total of three times during this process, the password in this example is 3.
 
 Analyze the rotations in your attached document. What's the actual password to open the door?
-
-To play, please identify yourself via one of these services:
-
-[GitHub] [Google] [Twitter] [Reddit] - [How Does Auth Work?]

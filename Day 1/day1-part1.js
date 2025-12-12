@@ -1,6 +1,6 @@
 const fetchInput = require("./fetchInput");
 
-console.log("Day 1 started!");
+console.log("Day 1 Part 1 started!");
 
 function countZerosDuringRotation(rotations) {
   let countZeros = 0;
@@ -17,34 +17,22 @@ function countZerosDuringRotation(rotations) {
     }
     let rotationDirection = rotation.charAt(0);
     if (rotationDirection === "L") {
-      console.log(
-        "Position: " + currentPosition + " - " + validDigitRotationValue
-      );
-
       currentPosition =
         Number(currentPosition) - Number(validDigitRotationValue);
       if (currentPosition < 0) {
         currentPosition = Number(currentPosition) + 100;
       }
-      console.log("Current position: " + currentPosition);
       if (currentPosition === 0) {
         countZeros++;
-        console.log("Zero found at position: " + currentPosition);
       }
     } else {
-      console.log(
-        "Position: " + currentPosition + " + " + validDigitRotationValue
-      );
-
       currentPosition =
         Number(currentPosition) + Number(validDigitRotationValue);
       if (currentPosition > 99) {
         currentPosition = Number(currentPosition) - 100;
       }
-      console.log("Current position: " + currentPosition);
       if (currentPosition === 0) {
         countZeros++;
-        console.log("Zero found at position: " + currentPosition);
       }
     }
   }

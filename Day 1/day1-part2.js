@@ -1,6 +1,6 @@
 const fetchInput = require("./fetchInput");
 
-console.log("Day 1 started!");
+console.log("Day 1 Part 2 started!");
 
 function countZerosDuringRotation(rotations) {
   let countZeros = 0;
@@ -18,24 +18,9 @@ function countZerosDuringRotation(rotations) {
         rotationValue.substring(rotationValue.length - 2)
       );
       countZeros = countZeros + parseInt(rotationValue / 100);
-      console.log(
-        "Zeros crossed by big number:" +
-          countZeros +
-          " " +
-          parseInt(rotationValue / 100)
-      );
     }
 
     if (rotationDirection === "L") {
-      console.log(
-        "Position: " +
-          currentPosition +
-          " - " +
-          validDigitRotationValue +
-          " = " +
-          (currentPosition - validDigitRotationValue)
-      );
-
       if (currentPosition == 0) {
         currentPosition = currentPosition - validDigitRotationValue + 100;
         continue;
@@ -47,23 +32,12 @@ function countZerosDuringRotation(rotations) {
           currentPosition = currentPosition + 100;
         }
         countZeros++;
-        console.log("Zeros crossed :" + countZeros);
       }
     } else {
-      console.log(
-        "Position: " +
-          currentPosition +
-          " + " +
-          validDigitRotationValue +
-          " = " +
-          (currentPosition + validDigitRotationValue)
-      );
-
       currentPosition = currentPosition + validDigitRotationValue;
       if (currentPosition > 99) {
         currentPosition = currentPosition - 100;
         countZeros++;
-        console.log("Zeros crossed :" + countZeros);
       }
     }
   }
