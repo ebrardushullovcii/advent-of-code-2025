@@ -1,0 +1,15 @@
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\bin\Debug\net8.0\cSharpDay2.exe
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\bin\Debug\net8.0\cSharpDay2.deps.json
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\bin\Debug\net8.0\cSharpDay2.runtimeconfig.json
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\bin\Debug\net8.0\cSharpDay2.dll
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\bin\Debug\net8.0\cSharpDay2.pdb
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\obj\Debug\net8.0\cSharpDay2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\obj\Debug\net8.0\cSharpDay2.AssemblyInfoInputs.cache
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\obj\Debug\net8.0\cSharpDay2.AssemblyInfo.cs
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\obj\Debug\net8.0\cSharpDay2.csproj.CoreCompileInputs.cache
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\obj\Debug\net8.0\cSharpDay2.sourcelink.json
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\obj\Debug\net8.0\cSharpDay2.dll
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\obj\Debug\net8.0\refint\cSharpDay2.dll
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\obj\Debug\net8.0\cSharpDay2.pdb
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\obj\Debug\net8.0\cSharpDay2.genruntimeconfig.cache
+D:\Projects-Personal\advent-of-code-2025\Day 2\cSharp\obj\Debug\net8.0\ref\cSharpDay2.dll

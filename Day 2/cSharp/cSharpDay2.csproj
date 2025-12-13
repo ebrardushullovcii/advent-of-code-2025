@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>cSharpDay2</RootNamespace>
+    <!-- Change DefineConstants to PART2 to run part 2, or PART1 for part 1 -->
+    <DefineConstants>PART2</DefineConstants>
+  </PropertyGroup>
+
+</Project>
