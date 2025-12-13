@@ -1,6 +1,6 @@
 const fetchInput = require("./fetchInput");
 
-console.log("Day 3 Part 1 started!");
+console.log("Day 3 Part 2 started!");
 
 function getMaxJoltage(input) {
   const banks = input.trim().split("\n");
