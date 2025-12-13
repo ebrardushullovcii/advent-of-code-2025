@@ -1,6 +1,6 @@
 const fetchInput = require("./fetchInput");
 
-console.log("Day 2 started!");
+console.log("Day 2 Part 1 started!");
 
 function getAllInvalidIds(input) {
   const invalidIds = [];

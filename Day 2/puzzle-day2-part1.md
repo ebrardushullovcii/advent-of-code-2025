@@ -1,14 +1,3 @@
-Advent of Code
-
-    [About][Events][Shop][Settings][Log Out]
-
-(anonymous user #5550222) 2\*
-{year=>2025}
-
-    [Calendar][AoC++][Sponsors][Leaderboards][Stats]
-
-Our sponsors help make Advent of Code possible:
-Da Vinci - Think Santa's workshop, but the elves build low latency code and fine tune algorithms. Curious, collaborative, and full of spirit. If tough problems feel like a holiday treat, you're our kind of developer.
 --- Day 2: Gift Shop ---
 
 You get inside and take the elevator to its only other stop: the gift shop. "Thank you for visiting the North Pole!" gleefully exclaims a nearby sign. You aren't sure who is even allowed to visit the North Pole, but you know you can access the lobby through here, and from there you can access the rest of the North Pole base.

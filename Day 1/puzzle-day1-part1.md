@@ -1,13 +1,3 @@
-Advent of Code
-
-    [About][Events][Shop][Log In]
-
-       λy.2025
-
-    [Calendar][AoC++][Sponsors][Leaderboards][Stats]
-
-Our sponsors help make Advent of Code possible:
-CodeRabbit - Cut Code Review Time and Bugs in Half
 --- Day 1: Secret Entrance ---
 
 The Elves have good news and bad news.
