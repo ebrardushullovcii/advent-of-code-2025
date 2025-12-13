@@ -8,7 +8,6 @@ function getMaxJoltage(input) {
   for (const bank of banks) {
     rowJoltage.push(Number(getLargestBatteries(bank)));
   }
-  console.log(rowJoltage);
   return rowJoltage;
 }
 
